@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="binaural_titles">
+        <item>Dreamscape Theta</item>
+        <item>Soul Rising Theta</item>
+        <item>Beyond Words Theta</item>
+        <item>El Caminito Theta</item>
+        <item>April Sun Theta</item>
+        <item>Angel Dream Theta</item>
+        <item>Blue Ocean Theta</item>
+        <item>Silver Sky Theta</item>
+        <item>Angel Voices Theta</item>
+        <item>Dawn Waves Theta</item>
+    </string-array>
+
+    <string-array name="binaural_descriptions">
+        <item>Dreamy piano and soft voices combined with subliminal binaural tones (theta wave).</item>
+        <item>Deeply relaxing beats and flowing melody.</item>
+        <item>Powerful ambient music with subliminal binaural tones (theta wave) for meditation and deep trance.</item>
+        <item>Soulful voices and djembe combine in a piece inspired by the healing harmony of plainsong.</item>
+        <item>Relaxing rhythms and beautiful natural sounds.</item>
+        <item>An evolving ambient soundscape with a soft flowing melody and gentle rhythmic pulse.</item>
+        <item>Gentle sounds of breath in a tranquill setting.</item>
+        <item>Uplifting voices weave through a tranquil setting.</item>
+        <item>Voices drift peacefully on the breeze - a track inspired by the open harmony of plain song.</item>
+        <item>Blissful natural sounds: Gentle waves and soft voices combine with subliminal binaural beats (theta wave).</item>
+    </string-array>
+
+    <array name="binaural_res_ids">
+        <item>@drawable/dreamscape</item>
+        <item>@drawable/soul_rising</item>
+        <item>@drawable/beyond_words</item>
+        <item>@drawable/el_camino</item>
+        <item>@drawable/april_sun</item>
+        <item>@drawable/angel_dream</item>
+        <item>@drawable/blue_ocean</item>
+        <item>@drawable/silver_sky</item>
+        <item>@drawable/angel_voices</item>
+        <item>@drawable/dawn_waves</item>
+    </array>
+</resources>

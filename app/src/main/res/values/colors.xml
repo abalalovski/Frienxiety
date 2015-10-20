@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_primary">#3952B5</color>
+    <color name="color_primary_dark">#31399C</color>
+    <color name="color_accent">#ffffff</color>
+
+    <color name="text_hint">#a3a3a3</color>
+    <color name="dialog_button_color">#009688</color>
+
+    <color name="dialog_user_line_bg">#803952B5</color>
+    <color name="chat_dialog_bg">#ececec</color>
+
+</resources>

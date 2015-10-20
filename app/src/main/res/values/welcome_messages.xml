@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="welcome_messages">
+        <item>Hello! I need help with a situation I currently have. Will you be able to help me now?</item>
+        <item>Hi, the application choose you as available to help me at this time. Are you?</item>
+        <item>Hello there! Thanks for listing yourself as being able to help me!</item>
+        <item>Hi. I need help. Do you have time to help me?</item>
+        <item>Hello! I cannot ask anyone else for help currently so maybe you can help me out?</item>
+    </string-array>
+
+</resources>

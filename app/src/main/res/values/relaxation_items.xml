@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="relaxation_items">
+        <item>Binaural Sounds</item>
+        <item>Color Therapy</item>
+        <item>Cognitive Behavioural Therapy</item>
+        <item>Suggestive Therapy</item>
+        <item>Meditation</item>
+    </string-array>
+
+    <string-array name="relaxation_description">
+        <item>Listen to binaural sounds and beats. An old method discovered by Heinrich Wilhelm Dove that had proven itself as relaxative and meditative.</item>
+        <item>Although considered a bit psudoscience, from ancient times color has been used to balance the energy in one\'s body on many levels.</item>
+        <item>CBT is proven psychiatric (talkative) method for helping people with depression and/or anxiety but useful for other states also. Get to know the basics.</item>
+        <item>A level behind the hypnotherapy, the suggestive therapy is a combination between the binaural beats and compulsive repeating of positive triggers.</item>
+        <item>A good old meditation does wonders. Learn how to do it properly in few articles that we have prepared.</item>
+    </string-array>
+
+    <array name="relaxation_icons">
+        <item>@drawable/ic_binaural</item>
+        <item>@drawable/ic_color_therapy</item>
+        <item>@drawable/ic_cbt</item>
+        <item>@drawable/ic_suggestive</item>
+        <item>@drawable/ic_meditate</item>
+    </array>
+
+</resources>

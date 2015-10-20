@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Frienxiety</string>
+    <string name="slogan">The invisible friend</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="err_passwords">Password needs to be at least 8 characters.</string>
+    <string name="signup_success">Signup successful!</string>
+    <string name="signup_fail">Signup failed:</string>
+    <string name="login_success">Login successful!</string>
+    <string name="login_fail">Login failed:</string>
+    <string name="title_activity_main">Frienxiety</string>
+    <string name="registering">Registering..</string>
+    <string name="logging_in">Logging in!</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="hello_there">Hello there!</string>
+    <string name="action_dialog_intro">Take it easy! Everything is going to be fine. It\'s just a phase you\'re passing through.\n\nLet\'s see how we can help?</string>
+
+    <string name="chat_intro">Here are some friends that are willing to help!</string>
+    <string name="relaxation_title">Improve your mood</string>
+    <string name="main_text">We made this application to help people in need because we know how it feels. We want to make progress in the field of mutual help since not all of us are even aware of the fact that there are people like us out there that can really help us.</string>
+    <string name="main_title">Welcome!</string>
+    <string name="agree">Ok, I am aware</string>
+    <string name="disclaimer">While this application tries to offer the best help for you from people out there please do understand that this is on the basis of volounteering and thus we do not take any responsibility for any negative outcome of the conversation. All the best!</string>
+    <string name="helper_disclaimer">Registering as a Helper means that you will be marked to help others 24/7. You can later change this setting in the application but have in mind that some people, seeing you listed as helper might be hoping that you will help them.\n\nAre you sure you want to be a helper?</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="action_logout">Logout</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="your_message">Your message</string>
+    <string name="helper_title">Helper really?</string>
+    <string name="intro_message">Hi there! How can I help you?</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+    <string name="chat_announce_content">Someone is sending you a message!</string>
+    <string name="notification_content">A friend sent you message. Be kind with him and see what you can do.</string>
+    <string name="notification_title">Someone needs your help!</string>
+    <string name="start_app_now">You can start using the app now.</string>
+    <string name="no_available_users">Currently there are no users to help you. Take some of the other methods of help!</string>
+    <string name="chat_dialog_title">Chat with</string>
+    <string name="logout_confirm_title">Really logout?</string>
+    <string name="logout_confirm">Do you really want to signout?</string>
+    <string name="chat_end_confirm_title">End Chat session?</string>
+    <string name="chat_end_confirm">This will end the current chat session without the possibility to recover it.\n\nAre you sure you want to end it?</string>
+    <string name="title_activity_relaxation_methods">Relaxation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="colors_title">Color of choice</string>
+    <string name="chromotherapy_confirm">Look at the center of the color for a while. Best done with headset on.</string>
+    <string name="chromotherapy_title">Color Therapy</string>
+    <string name="friend_placeholder">friend</string>
+
+</resources>

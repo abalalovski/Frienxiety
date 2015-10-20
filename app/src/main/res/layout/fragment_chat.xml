@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container_chat"
+    android:layout_width="match_parent"
+    android:background="@color/chat_dialog_bg"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scrollView_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/container_chat_line">
+
+        <LinearLayout
+            android:id="@+id/dialog_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/container_chat_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <EditText
+            android:id="@+id/editText_message"
+            style="@style/editTextStyle"
+            android:layout_margin="0dp"
+            android:hint="@string/your_message"
+            android:inputType="textCapSentences" />
+
+        <ImageButton
+            android:id="@+id/button_send_message"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/login_button_bg"
+            android:src="@drawable/ic_send" />
+    </RelativeLayout>
+</RelativeLayout>

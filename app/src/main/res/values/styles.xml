@@ -1,0 +1,94 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+
+        <item name="android:textColorPrimary">@android:color/holo_blue_bright</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+
+        <item name="android:actionMenuTextColor">@android:color/black</item>
+        <item name="actionMenuTextColor">@android:color/black</item>
+    </style>
+
+    <style name="mainButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@android:color/holo_blue_dark</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:shadowColor">@android:color/white</item>
+        <item name="android:layout_height">150dp</item>
+    </style>
+
+    <style name="dialogStyle" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="actionButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@drawable/action_button_bg</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:shadowColor">@android:color/black</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="loginButtonStyle">
+        <item name="android:layout_width">@dimen/login_button_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/login_button_bg</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textColor">@color/color_primary_dark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/login_button_text_size</item>
+        <item name="fontPath">fonts/RobotoCondensed-Regular.ttf</item>
+    </style>
+
+    <style name="editTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:background">@color/color_accent</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="fontPath">fonts/RobotoCondensed-Regular.ttf</item>
+    </style>
+
+    <style name="toolBarStyle" parent="">
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+        <item name="titleTextAppearance">@style/Toolbar.TitleText</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">22sp</item>
+        <item name="fontPath">fonts/RobotoCondensed-Bold.ttf</item>
+    </style>
+
+    <style name="cardViewStyle" parent="">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+        <item name="android:gravity">center</item>
+        <item name="android:clickable">true</item>
+        <item name="cardCornerRadius">4dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardUseCompatPadding">true</item>
+    </style>
+
+</resources>

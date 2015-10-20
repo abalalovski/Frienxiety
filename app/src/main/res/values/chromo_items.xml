@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="chromo_titles">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+
+    <string-array name="chromo_descs">
+        <item>Stimulating color associated with vitality and energy</item>
+        <item>Soothing color that stimulates circulation</item>
+        <item>Warmth and comfort</item>
+        <item>Calming and sedating effect. Soothes away anxiety and calms your mind and body</item>
+        <item>Intensive relaxation after stressful period. Promotes calmness and peace</item>
+        <item>Purple or indigo combines the blood-warming red and the cooling of antiseptic blue</item>
+    </string-array>
+
+    <array name="chromo_res_ids">
+        <item>@drawable/ic_red</item>
+        <item>@drawable/ic_orange</item>
+        <item>@drawable/ic_yellow</item>
+        <item>@drawable/ic_green</item>
+        <item>@drawable/ic_blue</item>
+        <item>@drawable/ic_purple</item>
+    </array>
+
+    <string-array name="chromo_colors">
+        <item>#ff0000</item>
+        <item>#ffa500</item>
+        <item>#ffff00</item>
+        <item>#008000</item>
+        <item>#0000ff</item>
+        <item>#800080</item>
+    </string-array>
+
+</resources>

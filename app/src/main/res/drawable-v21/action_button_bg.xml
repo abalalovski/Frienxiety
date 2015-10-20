@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@android:color/white">
+
+    <item android:drawable="@drawable/action_button_selected_bg" android:state_selected="true"></item>
+    <item android:drawable="@drawable/action_button_selected_bg" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/action_button_normal_bg"></item>
+
+</ripple>
