@@ -10,7 +10,7 @@ public class Constants {
     public static final long SPLASH_DELAY = 2000;
 
     public static class QBlox {
-       
+
     }
 
     public static class Prefs {
